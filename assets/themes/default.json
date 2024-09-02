@@ -1,0 +1,45 @@
+{
+  "default": {
+    "files": [
+      {
+        "type": "image",
+        "key": "sky",
+        "url": "assets/background.png"
+      },
+      {
+        "type": "spritesheet",
+        "key": "bird",
+        "url": "assets/birdSprite.png",
+        "frameConfig": {
+          "frameWidth": 16,
+          "frameHeight": 16
+        }
+      },
+      {
+        "type": "image",
+        "key": "pipe",
+        "url": "assets/pipeWhite.png"
+      },
+      {
+        "type": "image",
+        "key": "pause",
+        "url": "assets/pause.png"
+      },
+      {
+        "type": "image",
+        "key": "back",
+        "url": "assets/back.png"
+      },
+      {
+        "type": "font",
+        "key": "roboto",
+        "url": "assets/fonts/PressStart2P-Regular.ttf"
+      },
+      {
+        "type": "font",
+        "key": "press2P",
+        "url": "assets/fonts/PressStart2P-Regular.ttf"
+      }
+    ]
+  }
+}
